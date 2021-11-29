@@ -1,5 +1,5 @@
 # Data-Science-and-Machine-Learning-Projects
-works on Data Science and Machine Learning Projects <br><br>
+Works on Data Science and Machine Learning Projects <br><br>
 
 1 - Sonar Rock vs Mine Prediction:<br><br>
 consider that is the submarine so there is a war going on between 2 countries, submarine of a country is going in underwater to another country and
