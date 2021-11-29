@@ -11,6 +11,6 @@ so this signals is processed to detect whether the object is a mine or rock<br><
 2 - Diabetes Prediction:<br><br>
 Build a Machine Learning System that can predict whether a person has diabetes or not <br><br><br>
 
-3 - Fake news Prediction<br><br>:
+3 - Fake news Prediction:<br><br>
 Build a Machine Learning System that predict wether a news is fake or real in this case we are going to deal with textual data not numerical data
 
