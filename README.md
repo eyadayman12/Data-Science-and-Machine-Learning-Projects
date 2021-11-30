@@ -12,5 +12,7 @@ so this signals is processed to detect whether the object is a mine or rock<br><
 Build a Machine Learning System that can predict whether a person has diabetes or not <br><br><br>
 
 3 - Fake news Prediction:<br><br>
-Build a Machine Learning System that predict wether a news is fake or real in this case we are going to deal with textual data not numerical data
+Develop a machine learning program to identify when an article might be fake news in this case we are going to deal with textual data not numerical data<br><br><br>
 
+4 - Loan Prediction:<br><br>
+Company wants to automate the loan eligibility process (real time) based on customer detail provided while filling online application form. These details are Gender, Marital Status, Education, Number of Dependents, Income, Loan Amount, Credit History and others. To automate this process, they have given a problem to identify the customers segments, those are eligible for loan amount so that they can specifically target these customers, we are going to build a loan status prediction system that can predict whether a person is eligible for a loan or not.
