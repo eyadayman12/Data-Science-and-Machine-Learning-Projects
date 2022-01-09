@@ -1,2 +1,0 @@
-data: https://www.kaggle.com/mlg-ulb/creditcardfraud
-can't uploaded it on github bec. it exceeds 100MB
